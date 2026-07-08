@@ -147,7 +147,7 @@ One of the first areas I inspected was the **Pods** view.
 
 Here I confirmed that the existing application workloads, together with the Harbor-hosted deployment, were all running successfully.
 
-![Kubernetes Dashboard - Pods](images/dashboard-pods.png)
+![Kubernetes Dashboard - Pods](../images/dashboard-pods.png)
 
 ---
 
