@@ -118,7 +118,7 @@ The Kubernetes Dashboard login page loaded successfully, confirming that the dep
 
 Authentication was completed using the administrator ServiceAccount token.
 
-![Dashboard Login](images/dashboard-login.png)
+![Dashboard Login](../images/dashboard-login.png)
 
 ---
 
